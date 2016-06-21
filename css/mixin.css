@@ -1,0 +1,12 @@
+.anti-alias {
+  font-smooth: always;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+}
+.comunArrows {
+  width: 0;
+  height: 0;
+  position: relative;
+  line-height: 0px;
+}

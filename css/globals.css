@@ -1,0 +1,183 @@
+/*****anieto2k*******/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+center,
+u,
+b,
+i {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+body {
+  line-height: 1;
+}
+:focus {
+  outline: 0;
+}
+ol,
+ul {
+  list-style: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+}
+blockquote,
+q {
+  quotes: "" "";
+}
+input,
+textarea {
+  margin: 0;
+  padding: 0;
+}
+.anti-alias {
+  font-smooth: always;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+}
+.comunArrows {
+  width: 0;
+  height: 0;
+  position: relative;
+  line-height: 0px;
+}
+.anti-alias {
+  font-smooth: always;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+}
+@font-face {
+  font-family: 'Seat Meta Normal Roman';
+  src: url('../fonts/seatmnr.eot');
+  src: url('../fonts/seatmnr.eot?#iefix') format('embedded-opentype'), url('../fonts/seatmnr.woff') format('woff'), url('../fonts/seatmnr.ttf') format('truetype'), url('../fonts/seatmnr.svg#Seat Meta Normal Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Seat Meta Black Italic';
+  src: url('../fonts/semebki.eot');
+  src: url('../fonts/semebki.eot?#iefix') format('embedded-opentype'), url('../fonts/semebki.woff') format('woff'), url('../fonts/semebki.ttf') format('truetype'), url('../fonts/semebki.svg#Seat Meta Black Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Seat Meta Black Roman';
+  src: url('../fonts/semebkr.eot');
+  src: url('../fonts/semebkr.eot?#iefix') format('embedded-opentype'), url('../fonts/semebkr.woff') format('woff'), url('../fonts/semebkr.ttf') format('truetype'), url('../fonts/semebkr.svg#Seat Meta Black Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Seat Meta Medium Roman';
+  src: url('../fonts/sememr.eot');
+  src: url('../fonts/sememr.eot?#iefix') format('embedded-opentype'), url('../fonts/sememr.woff') format('woff'), url('../fonts/sememr.ttf') format('truetype'), url('../fonts/sememr.svg#Seat Meta Medium Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Seat Meta Bold Roman';
+  src: url('../fonts/semebr.eot');
+  src: url('../fonts/semebr.eot?#iefix') format('embedded-opentype'), url('../fonts/semebr.woff') format('woff'), url('../fonts/semebr.ttf') format('truetype'), url('../fonts/semebr.svg#Seat Meta Bold Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.seatMetaBold {
+  font-family: 'Seat Meta Bold Roman', Arial;
+}
+.seatMetaBlack {
+  font-family: 'Seat Meta Black Roman', Arial;
+}
+.seatMetaMedium {
+  font-family: 'Seat Meta Medium Roman', Arial;
+}
+.seatMetaNormal {
+  font-family: 'Seat Meta Normal Roman', Arial;
+  font-smooth: always;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+}
+.seatMetaBoldItalic {
+  font-family: 'Seat Meta Bold Italic', Arial;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.hide {
+  display: none;
+}
